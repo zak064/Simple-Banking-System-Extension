@@ -12,6 +12,10 @@
   <img src="https://img.shields.io/badge/Problem_Solving-0A66C2?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
+<a href="https://zakariyafayadpro.netlify.app/project-videos#project-4">
+  <img src="https://img.shields.io/badge/See_Project_Video-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
+
 </div>
 
 ---
